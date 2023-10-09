@@ -7,12 +7,13 @@ We are thrilled to host a Fall Fest event at NCSU! The Qiskit Fall Fest is a col
 
 ## Schedule
 
-* 09:00 AM Speaker 1: TBA
-* 10:00 AM Speaker 2: TBA
+* 09:00 AM Dr. Yuan Liu (NCSU) A Quantum Information Science Perspective on Quantum Chemistry.
+* 10:00 AM Dr. Ted Yoder (IBM): Simulating quantum error-correction and new qLDPC codes.
 * 12:00 PM Vittles
-* 01:00 PM Speaker 3: TBA
-* 02:00 PM Speaker 4: TBA
+* 01:00 PM Dr. Nick Bronn (IBM): Outlook for Quantum Computing with Superconducting Qubits.
+* 02:00 PM Dr. Jack Morgan: Quantum computational algorithms for derivative pricing and credit risk in a regime switching economy.
 
+![Detailed Schedule](materials/QiskitFallFest23.pptx)
  
 ## Our Posters
 
