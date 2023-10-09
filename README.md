@@ -13,7 +13,7 @@ We are thrilled to host a Fall Fest event at NCSU! The Qiskit Fall Fest is a col
 * 01:00 PM Dr. Nick Bronn (IBM): Outlook for Quantum Computing with Superconducting Qubits.
 * 02:00 PM Dr. Jack Morgan: Quantum computational algorithms for derivative pricing and credit risk in a regime switching economy.
 
-![Detailed Schedule](materials/QiskitFallFest23.pptx)
+![Detailed Schedule](materials/QiskitFallFest23.pdf)
  
 ## Our Posters
 
