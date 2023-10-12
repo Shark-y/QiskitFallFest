@@ -11,7 +11,10 @@ We are thrilled to host a Fall Fest event at NCSU! The Qiskit Fall Fest is a col
 * 10:00 AM Dr. Ted Yoder (IBM): Simulating quantum error-correction and new qLDPC codes.
 * 12:00 PM Vittles
 * 01:00 PM Dr. Nick Bronn (IBM): Outlook for Quantum Computing with Superconducting Qubits.
-* 02:00 PM Dr. Jack Morgan: Quantum computational algorithms for derivative pricing and credit risk in a regime switching economy.
+* 02:00 PM Dr. Jack Morgan: Quantum Algorithms for Financial Models in a Regime Switching Economy.
+
+## Zoom Invite 
+https://ncsu.zoom.us/j/94056828369
 
 ![Detailed Schedule](materials/QiskitFallFest23.pdf)
  
