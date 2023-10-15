@@ -23,7 +23,7 @@ A presentation of the ![Detailed Schedule](materials/QiskitFallFest23.pdf)
 
 There is a Watch me setup video for the IBM-Q console:
 
-See ![Tutorials](tutorials/Qiskit Fall Fest Challenges/Readme pdf.pdf)
+See ![Tutorials](tutorials/Qiskit%20Fall%20Fest%20Challenges/Readme%20pdf.pdf)
 
 ## Our Posters
 
