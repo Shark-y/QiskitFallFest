@@ -23,7 +23,8 @@ A presentation of the ![Detailed Schedule](materials/QiskitFallFest23.pdf)
 
 There is a Watch me setup video for the IBM-Q console:
 
-See ![Tutorials](tutorials/Qiskit%20Fall%20Fest%20Challenges/Readme%20pdf.pdf)
+* See ![Tutorials](tutorials/Qiskit%20Fall%20Fest%20Challenges/Readme%20pdf.pdf)
+* Setup ![instructions](https://raw.githubusercontent.com/Shark-y/QiskitFallFest/main/tutorials/Qiskit%20Fall%20Fest%20Challenges/Watch%20Me%20-%20Quick%20Setup%20Guide.mp4)
 
 ## Our Posters
 
