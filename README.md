@@ -9,15 +9,23 @@ We are thrilled to host a Fall Fest event at NCSU! The Qiskit Fall Fest is a col
 
 * 09:00 AM Dr. Yuan Liu (NCSU) A Quantum Information Science Perspective on Quantum Chemistry.
 * 10:00 AM Dr. Ted Yoder (IBM): Simulating quantum error-correction and new qLDPC codes.
-* 12:00 PM Vittles
+* 11:00 AM IBM-Q Tutorials
+* 12:00 PM Lunch - Pizza... Yumm!
 * 01:00 PM Dr. Nick Bronn (IBM): Outlook for Quantum Computing with Superconducting Qubits.
 * 02:00 PM Dr. Jack Morgan: Quantum Algorithms for Financial Models in a Regime Switching Economy.
 
 ## Zoom Invite 
 https://ncsu.zoom.us/j/94056828369
 
-[Detailed Schedule](materials/QiskitFallFest23.pdf)
+A presentation of the ![Detailed Schedule](materials/QiskitFallFest23.pdf)
  
+## Tutorials
+
+There is a Watch me setup video for the IBM-Q console:
+
+* See ![Tutorials](tutorials/Qiskit%20Fall%20Fest%20Challenges/Readme%20pdf.pdf)
+* Setup ![instructions](https://raw.githubusercontent.com/Shark-y/QiskitFallFest/main/tutorials/Qiskit%20Fall%20Fest%20Challenges/Watch%20Me%20-%20Quick%20Setup%20Guide.mp4)
+
 ## Our Posters
 
 ![Qiskit Fall Fest poster](QiskitFallFestPoster.png)
