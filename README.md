@@ -16,7 +16,7 @@ We are thrilled to host a Fall Fest event at NCSU! The Qiskit Fall Fest is a col
 ## Zoom Invite 
 https://ncsu.zoom.us/j/94056828369
 
-![Detailed Schedule](materials/QiskitFallFest23.pdf)
+[Detailed Schedule](materials/QiskitFallFest23.pdf)
  
 ## Our Posters
 
