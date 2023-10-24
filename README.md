@@ -5,6 +5,10 @@ Brought to you by the Quantum Club https://quantuminformationclub.wordpress.ncsu
 
 We are thrilled to host a Fall Fest event at NCSU! The Qiskit Fall Fest is a collection of quantum computing events on college campuses around the world and we are lucky to be selected. 
 
+## Location
+
+NCSU Talley Student Union - TSU Room 4140-Governance Chamber
+
 ## Schedule
 
 * 09:00 AM Dr. Yuan Liu (NCSU) A Quantum Information Science Perspective on Quantum Chemistry.
