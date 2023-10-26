@@ -12,10 +12,10 @@ NCSU Talley Student Union - TSU Room 4140-Governance Chamber
 ## Schedule
 
 * 09:00 AM Dr. Yuan Liu (NCSU) A Quantum Information Science Perspective on Quantum Chemistry.
-* 10:00 AM Dr. Ted Yoder (IBM): Simulating quantum error-correction and new qLDPC codes.
+* 10:00 AM Dr. Nick Bronn (IBM): Outlook for Quantum Computing with Superconducting Qubits.
 * 11:00 AM IBM-Q Tutorials
 * 12:00 PM Lunch - Pizza... Yumm!
-* 01:00 PM Dr. Nick Bronn (IBM): Outlook for Quantum Computing with Superconducting Qubits.
+* 01:00 PM Dr. Ted Yoder (IBM): Simulating quantum error-correction and new qLDPC codes.
 * 02:00 PM Jack Morgan: Quantum Algorithms for Financial Models in a Regime Switching Economy.
 
 ## Zoom Invite 
